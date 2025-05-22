@@ -15,7 +15,7 @@ We are committed to preserving the taste of Jamaica while providing high-quality
 ## 🌐 Live Site
 
 Visit our website here:  
-👉 [https://yaaahmanrootztrading.com](https://yaaahmanrootztrading.com)
+👉 [[https://yaaahmanrootztrading.com](https://yaaahmanrootztrading.com)](https://yaaahmanrootz.github.io/YaaahmanRootz/)
 
 ## 📄 Site Structure
 
